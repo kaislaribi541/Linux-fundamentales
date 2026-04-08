@@ -1,6 +1,6 @@
 # 🐧 Linux Fundamentals Mastery - TryHackMe
 
-This repository documents my journey and technical skills acquired during the **Linux Fundamentals** series on TryHackMe. As a senior cybersecurity professional, mastering the Linux command line is the core of my operations, from server security to automation.
+This repository documents my journey and technical skills acquired during the **Linux Fundamentals** series on TryHackMe. As a Junior Cybersecurity Learner, mastering the Linux command line is the core of my operations, from server security to automation.
 
 ---
 
