@@ -46,6 +46,6 @@ This repository documents my journey and technical skills acquired during the **
 ---
 
 ## 👤 Profile
-* **Role:** Senior Cybersecurity Professional
+* **Role:** Junior Cybersecurity
 * **Location:** Tunisia 🇹🇳
 * **Interests:** Automotive Engineering (BMW E39 S62), Aviation, and High-Performance Computing.
